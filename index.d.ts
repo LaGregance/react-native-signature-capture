@@ -91,11 +91,6 @@ export interface SignatureCaptureProps extends ViewProps {
 
 export interface SaveEventParams {
   /**
-   * The file path name
-   */
-  pathName: string;
-
-  /**
    * The base64 encoded png
    */
   encoded: string;
