@@ -112,8 +112,7 @@ public class RSSignatureCaptureView extends View {
 			paint.setTextAlign(Paint.Align.CENTER);
 
 			SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm", Locale.getDefault());
-			String currentDateandTime = sdf.format(new Date());
-			String text = "17/12/1998 12:52";
+			String text = sdf.format(new Date());
 
 			canvas.rotate(rotate, this.getWidth() / 2.0f, this.getHeight() / 2.0f);
 			canvas.drawText(text, this.getWidth() / 2.0f, this.getHeight() / 2.0f - ((paint.descent() + paint.ascent()) / 2), paint);

@@ -1,6 +1,6 @@
 {
   "name": "@lagregance/react-native-signature-capture",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Lets users sign their signatures",
   "main": "SignatureCapture.js",
   "scripts": {
@@ -24,9 +24,9 @@
   "author": "RepairShopr,LaGregance",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RepairShopr/react-native-signature-capture/issues"
+    "url": "https://github.com/LaGregance/react-native-signature-capture/issues"
   },
-  "homepage": "https://github.com/RepairShopr/react-native-signature-capture#readme",
+  "homepage": "https://github.com/LaGregance/react-native-signature-capture",
   "dependencies": {
     "prop-types": "^15.5.10"
   },
