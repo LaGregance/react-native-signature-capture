@@ -1,6 +1,6 @@
 {
   "name": "@lagregance/react-native-signature-capture",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "description": "Lets users sign their signatures",
   "main": "SignatureCapture.js",
   "scripts": {
